@@ -1,4 +1,4 @@
-# Estagio
+# Estágio
 
 ### Calculo do ICMS <br>
 Informe o valor da mercadoria = 150 <br>
